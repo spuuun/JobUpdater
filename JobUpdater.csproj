@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Razor.Design" Version="2.2.0" />
+    <PackageReference Include="SendGrid" Version="9.12.7" />
+    <PackageReference Include="Twilio" Version="5.37.5" />
+    <PackageReference Include="Twilio.AspNet.Core" Version="5.33.1" />
+  </ItemGroup>
+
+</Project>
