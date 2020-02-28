@@ -4,7 +4,7 @@ using System.Threading.Tasks;
 using SendGrid;
 using SendGrid.Helpers.Mail;
 
-namespace TextToEmail
+namespace JobUpdater
 {
     public class Emailer
     {

@@ -10,7 +10,7 @@ using Twilio.Rest.Api.V2010.Account;
 using Twilio.TwiML;
 using Twilio.Types;
 
-namespace TextToEmail.Controllers
+namespace JobUpdater.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
